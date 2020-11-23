@@ -5,6 +5,6 @@ Horiseon Refactor is a project to refactor a codebase to meet accessibility stan
 
 Link:
 github: https://github.com/Tbutler087/horiseon-refactor
-github page: 
+github page: https://tbutler087.github.io/horiseon-refactor/
 
 
